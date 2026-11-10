@@ -1,10 +1,10 @@
 {
   "name": "VG7 Marketing Bloques",
-  "version": "0.1.2",
-  "download_url": "https://raw.githubusercontent.com/JaviGroup/vg7-actualizaciones/main/zips/vg7-marketing-bloques-0.1.2.zip",
+  "version": "0.2.0",
+  "download_url": "https://raw.githubusercontent.com/JaviGroup/vg7-actualizaciones/main/zips/vg7-marketing-bloques-0.2.0.zip",
   "requires": "6.6",
   "requires_php": "7.4",
-  "last_updated": "2026-11-10 23:09:59",
+  "last_updated": "2026-11-10 23:41:13",
   "sections": {
     "description": "Secciones de Viva Marketing (hero con celular y onda, nosotros con fichas, cinta, velocímetro de planes, opiniones, pasos con celular, baraja de planes, preguntas, hero y formulario de contacto con medidor de señal, y cierre) como bloques del editor, con sus textos, imágenes y datos editables. Requiere el tema VG7 Theme y su tema hijo VG7 Marketing."
   }
